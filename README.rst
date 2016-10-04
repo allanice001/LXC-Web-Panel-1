@@ -1,8 +1,8 @@
 LXC-Web-Panel
 =============
 
-.. image:: https://travis-ci.org/claudyus/LXC-Web-Panel.svg?branch=master
-    :target: https://travis-ci.org/claudyus/LXC-Web-Panel
+.. image:: https://travis-ci.org/allanice001/LXC-Web-Panel-1.svg?branch=master
+    :target: https://travis-ci.org/allanice001/LXC-Web-Panel-1
 
 This is a fork of the original LXC-Web-Panel from https://github.com/lxc-webpanel/LXC-Web-Panel with a lot of improvements and bug fix for LXC 1.0+.
 
