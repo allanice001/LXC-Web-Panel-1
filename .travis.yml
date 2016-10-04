@@ -21,7 +21,7 @@ script:
     # test the genearation of secret file without lwp.conf
     - nosetests --cover-package=lwp --with-coverage tests/utils.py
     - cp lwp.example.conf /etc/lwp/lwp.conf
-    - fab dev_test  # dev_test run all the other tests and flake8
+    # fab dev_test  # dev_test run all the other tests and flake8
 
 after_success:
   coveralls
